@@ -11,3 +11,4 @@ c=1
 
 'Cuando se acaba el semestre'
 
+'EL SEMESTRE SE ACABA UN VIERNES'
