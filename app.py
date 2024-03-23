@@ -9,5 +9,5 @@ b = 10
 
 c=1
 
-'Cuando fokin se acaba el semestre'
+'Cuando se acaba el semestre'
 
